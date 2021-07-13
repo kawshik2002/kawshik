@@ -1,0 +1,53 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+.list{
+    margin-left: auto;
+}
+
+.intro img{
+    width: 100%;
+    height: 93vh;
+}
+.main_heading img{
+   min-width: 100%;
+    max-height: 280px;
+}
+
+#serv .row{
+    --bs-gutter-x: 0;
+}
+
+#offer{
+    background-color: #a6dcef;
+    /* background-color: #DEEDF0; */
+}
+.textarea{
+    resize:none;
+}
+
+#contact{
+    background-image:url(contact.jpg);
+}
+
+.cont{
+    background-color: #dee2e6;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: rgba(21, 20, 20, 0.864) 0px 5px 15px;
+    
+} 
+
+.scroll{
+    margin: 2% auto;
+}
+
+
+
+
+.foot{
+    margin-bottom: 0;
+}
